@@ -21,10 +21,17 @@ Common cognitive distortions include:
 - Model training and evaluation
 
 ## Dataset
-This project uses a small dataset that is included in this repository.
+This project uses the **Cognitive Distortion Dataset** from Hugging Face.
 
-If applicable, the dataset can be found in:
+Source:
+https://huggingface.co/datasets/danthareja/cognitive-distortion
+
+The dataset is small and is included directly in this repository in the following folder:
+
 data/
+
+This allows the project to be run immediately without requiring any additional downloads.
+
 
 ## How to Run
 
